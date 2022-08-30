@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MenuItems>
+  <MenuItem>
+    <DishId>1</DishId>
+    <MenuId>1</MenuId>
+    <Price>20.50</Price>
+  </MenuItem>
+  <MenuItem>
+    <DishId>2</DishId>
+    <MenuId>1</MenuId>
+    <Price>100</Price>
+  </MenuItem>
+  <MenuItem>
+    <DishId>1</DishId>
+    <MenuId>2</MenuId>
+    <Price>50</Price>
+  </MenuItem>
+  <MenuItem>
+    <DishId>3</DishId>
+    <MenuId>2</MenuId>
+    <Price>70.50</Price>
+  </MenuItem>
+  <MenuItem>
+    <DishId>4</DishId>
+    <MenuId>2</MenuId>
+    <Price>60</Price>
+  </MenuItem>
+  <MenuItem>
+    <DishId>5</DishId>
+    <MenuId>2</MenuId>
+    <Price>45</Price>
+  </MenuItem>
+  <MenuItem>
+    <DishId>3</DishId>
+    <MenuId>2</MenuId>
+    <Price>100</Price>
+  </MenuItem>
+</MenuItems>

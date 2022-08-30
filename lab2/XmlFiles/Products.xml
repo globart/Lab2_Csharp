@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Products>
+  <Product>
+    <Id>1</Id>
+    <Name>Orange</Name>
+    <CaloriesPer100Grams>47.1</CaloriesPer100Grams>
+    <CaloriesPerGram>0.47100000000000003</CaloriesPerGram>
+    <SupplierId>1</SupplierId>
+  </Product>
+  <Product>
+    <Id>2</Id>
+    <Name>Beef</Name>
+    <CaloriesPer100Grams>250.5</CaloriesPer100Grams>
+    <CaloriesPerGram>2.505</CaloriesPerGram>
+    <SupplierId>1</SupplierId>
+  </Product>
+  <Product>
+    <Id>3</Id>
+    <Name>Egg</Name>
+    <CaloriesPer100Grams>155.1</CaloriesPer100Grams>
+    <CaloriesPerGram>1.551</CaloriesPerGram>
+    <SupplierId>1</SupplierId>
+  </Product>
+  <Product>
+    <Id>4</Id>
+    <Name>Milk</Name>
+    <CaloriesPer100Grams>42.3</CaloriesPer100Grams>
+    <CaloriesPerGram>0.423</CaloriesPerGram>
+    <SupplierId>2</SupplierId>
+  </Product>
+  <Product>
+    <Id>5</Id>
+    <Name>Potato</Name>
+    <CaloriesPer100Grams>76.7</CaloriesPer100Grams>
+    <CaloriesPerGram>0.767</CaloriesPerGram>
+    <SupplierId>2</SupplierId>
+  </Product>
+  <Product>
+    <Id>6</Id>
+    <Name>Soup</Name>
+    <CaloriesPer100Grams>200</CaloriesPer100Grams>
+    <CaloriesPerGram>2</CaloriesPerGram>
+    <SupplierId>3</SupplierId>
+  </Product>
+</Products>

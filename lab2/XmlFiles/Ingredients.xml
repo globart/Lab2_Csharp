@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Ingredients>
+  <Ingredient>
+    <DishId>1</DishId>
+    <ProductId>1</ProductId>
+    <Grams>80</Grams>
+  </Ingredient>
+  <Ingredient>
+    <DishId>2</DishId>
+    <ProductId>2</ProductId>
+    <Grams>100</Grams>
+  </Ingredient>
+  <Ingredient>
+    <DishId>3</DishId>
+    <ProductId>3</ProductId>
+    <Grams>100</Grams>
+  </Ingredient>
+  <Ingredient>
+    <DishId>3</DishId>
+    <ProductId>4</ProductId>
+    <Grams>50</Grams>
+  </Ingredient>
+  <Ingredient>
+    <DishId>4</DishId>
+    <ProductId>5</ProductId>
+    <Grams>100</Grams>
+  </Ingredient>
+  <Ingredient>
+    <DishId>5</DishId>
+    <ProductId>3</ProductId>
+    <Grams>75</Grams>
+  </Ingredient>
+  <Ingredient>
+    <DishId>3</DishId>
+    <ProductId>4</ProductId>
+    <Grams>200</Grams>
+  </Ingredient>
+</Ingredients>

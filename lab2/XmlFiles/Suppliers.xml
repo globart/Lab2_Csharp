@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Suppliers>
+  <Supplier>
+    <Id>1</Id>
+    <Name>Gordon Food Service</Name>
+  </Supplier>
+  <Supplier>
+    <Id>2</Id>
+    <Name>McLane FoodService</Name>
+  </Supplier>
+  <Supplier>
+    <Id>3</Id>
+    <Name>Gordon Ramsy</Name>
+  </Supplier>
+</Suppliers>

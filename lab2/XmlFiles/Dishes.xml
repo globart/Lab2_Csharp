@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dishes>
+  <Dish>
+    <Id>1</Id>
+    <Name>Orange juice</Name>
+  </Dish>
+  <Dish>
+    <Id>2</Id>
+    <Name>Steak</Name>
+  </Dish>
+  <Dish>
+    <Id>3</Id>
+    <Name>Omelet</Name>
+  </Dish>
+  <Dish>
+    <Id>4</Id>
+    <Name>Mashed potatoes</Name>
+  </Dish>
+  <Dish>
+    <Id>5</Id>
+    <Name>Fried eggs</Name>
+  </Dish>
+  <Dish>
+    <Id>6</Id>
+    <Name>Fish Soup</Name>
+  </Dish>
+</Dishes>
